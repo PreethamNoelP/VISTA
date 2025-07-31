@@ -100,7 +100,7 @@ def object_detection(image, model):
         return None
 
 def summarize_video(video_path):
-    """Dummy function to summarize video content."""
+    """Placeholder function for video summarization."""
     return "Summary: Detected objects, motion trends, scene changes, and major actions in video."
 
 def process_video(video_path, feature_option, model):
